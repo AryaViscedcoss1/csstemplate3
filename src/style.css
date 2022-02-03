@@ -29,7 +29,6 @@ body
     border: 0%;
     border:#4456be ;
     background-color: #4456be;
-    width:auto;
  
 }
   form.example input[type=text] {
@@ -37,7 +36,7 @@ body
     margin-left: 5%;
     font-size: 5px;
     border: 1px solid grey;
-    width: 40%;
+    width: 20%;
     height:50%;
     background: #ffffff;
   }
