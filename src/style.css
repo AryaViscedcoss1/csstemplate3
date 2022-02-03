@@ -1,0 +1,44 @@
+nav{
+    float: right;
+    margin-right:10px;
+}
+body
+{
+    padding: 2%;
+}
+
+#top
+{
+    background-color: #ececec;
+}
+.button {
+    background-color: #ececec; /* Green */
+    border: 10%;
+    border-color: rgb(134, 134, 134);
+    color: rgb(44, 44, 44);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+.submit{
+    font-size: 16px;
+    margin-left:10% ;
+    padding: 15px 10px;
+    border: 0%;
+    border:#4456be ;
+    background-color: #4456be;
+    width:auto;
+ 
+}
+  form.example input[type=text] {
+    padding: 10px;
+    margin-left: 5%;
+    font-size: 5px;
+    border: 1px solid grey;
+    width: 40%;
+    height:50%;
+    background: #ffffff;
+  }
+  
